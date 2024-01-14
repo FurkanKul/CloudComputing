@@ -14,4 +14,4 @@ npm install
 npm start
 ```
 #new
-Hello World hi furkan kul
+Hello world
