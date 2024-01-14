@@ -13,9 +13,3 @@ To run this Application locally:
 npm install
 npm start
 ```
-#new
-Hello worlaaad 1122
-aaaaaaaaaa
-asdadasdasda2
-asdaqw2222
-asdadadadadada2
